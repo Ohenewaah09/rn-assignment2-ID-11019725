@@ -6,6 +6,8 @@
 
 ## Screenshot
 
+![alt text](<mobile assignment2 screenshot.jpg>)
+
 ## Description of Tasks:
 
 - Changed the background colour to purple.
